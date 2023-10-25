@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     RadioGroup rdgElever;
 
     //Spinner
-    String[] country = { "India", "USA", "China", "Japan", "Other"};
+    String[] country = { "India", "USA", "China", "Japan", "Denmark", "Other"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
